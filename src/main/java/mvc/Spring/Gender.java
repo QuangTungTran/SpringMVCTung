@@ -1,4 +1,4 @@
-package Spring;
+package mvc.Spring;
 
 public enum Gender {
     Male,
